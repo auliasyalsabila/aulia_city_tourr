@@ -54,7 +54,7 @@ class HomeScreen extends StatelessWidget {
               const Text(
                 "Explore the charm of our city's hidden gems and embark on a journey to discover the rich cultural heritage, "
                     "breathtaking landscapes, and unique experiences that await you. From historic landmarks to vibrant markets and serene natural "
-                    "wonders. our city offers a tapestry of experiences that will captivate your senses. jois us in exploring the beauty of our city"
+                    "wonders. our city offers a tapestry of experiences that will captivate your senses. join us in exploring the beauty of our city"
                     "and create memories that will last a lifetime. come and visit our city's treasures today.",
                 style: TextStyle(
                   fontSize: 14,
